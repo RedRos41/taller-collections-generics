@@ -60,4 +60,4 @@ mvnw.cmd exec:java -Dexec.mainClass="ejercicio11.MergeQueues"
 
 ## Autor
 
-Derek Rodríguez - Universidad del Quindío
+Derek Rodríguez
