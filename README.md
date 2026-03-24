@@ -1,6 +1,6 @@
 # Taller Collections y Generics en Java
 
-Taller universitario sobre el uso de **Collections Framework** y **Generics** en Java.
+Taller sobre el uso de **Collections Framework** y **Generics** en Java.
 
 ## Requisitos
 
